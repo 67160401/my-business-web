@@ -31,6 +31,10 @@ my-business-web
 │
 <br>
 └── README.md
+<br>
+│
+<br>
+└── .gitignore
 
 ## Pages
 ๏ Home
