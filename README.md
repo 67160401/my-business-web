@@ -80,6 +80,7 @@ Assignment#1
 <img src="images/Home.png" alt="Home" width="500">
 <br>
 Assignment#2
+<br>
 <img src="images/Home2.0.png" alt="Home2.0" width="500">
 <br>
 <img src="images/Home2.0_2.png" alt="Home2.0" width="500">
@@ -99,6 +100,7 @@ Assignment#1
 <img src="images/About2.png" alt="About" width="500">
 <br>
 Assignment#2
+<br>
 <img src="images/About2.0.png" alt="About2.0" width="500">
 <br>
 <img src="images/About2.0_2.png" alt="About2.0" width="500">
@@ -114,6 +116,7 @@ Assignment#1
 <img src="images/Services.png" alt="Services" width="500">
 <br>
 Assignment#2
+<br>
 <img src="images/Services2.0.png" alt="Services2.0" width="500">
 <br>
 Link: http://127.0.0.1:5500/services.html
@@ -127,6 +130,7 @@ Assignment#1
 <img src="images/Contact.png" alt="Contact" width="500">
 <br>
 Assignment#2
+<br>
 <img src="images/Contact2.0.png" alt="Contact2.0" width="500">
 <br>
 <img src="images/Contact2.0_2.png" alt="Contact2.0" width="500">
