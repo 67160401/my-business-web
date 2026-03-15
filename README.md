@@ -21,7 +21,7 @@ my-business-web
 
 ## Pages
 - Home
-<img src="images/Home.png" alt="Home" width="200">
+<img src="images/Home.png" alt="Home" width="400">
 Link: http://127.0.0.1:5500/index.html
 <br>
 <br>
